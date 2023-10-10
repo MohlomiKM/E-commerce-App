@@ -22,7 +22,7 @@ function Homepage() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn
         </a>
       </header>
     </div>
